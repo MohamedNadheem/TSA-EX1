@@ -40,7 +40,8 @@ plt.show()
 ```
 # OUTPUT:
 
-(https://github.com/user-attachments/assets/4e75a791-831f-4bee-b4c3-dc88c21ab65b)
+<img width="850" height="545" alt="OUTPUT1A" src="https://github.com/user-attachments/assets/dfe7c5e3-d1ea-45cb-8150-f221c1d73d58" />
+
 
 
 # RESULT:
